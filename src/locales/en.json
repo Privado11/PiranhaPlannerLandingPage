@@ -1,0 +1,130 @@
+{
+  "header": {
+    "nav": {
+      "features": "Features",
+      "howItWorks": "How it works"
+    },
+    "auth": {
+      "signIn": {
+        "label": "Sign in",
+        "link": "https://piranhaplanner.netlify.app/login"
+      },
+      "signUp": {
+        "label": "Sign up",
+        "link": "https://piranhaplanner.netlify.app/signup"
+      }
+    }
+  },
+  "hero": {
+    "title": "Manage your tasks with",
+    "subtitle": "The most efficient way to organize your tasks, collaborate with friends and keep everything under control.",
+    "subtitle2": "100% free, no cards or payments.",
+    "cta": {
+      "primary": "Get started now",
+      "secondary": "Watch demo"
+    },
+    "image": "HeroImageEn",
+    "imageAlt": "Piranha Planner Dashboard"
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "Piranha Planner offers everything you need to manage your tasks efficiently",
+    "items": [
+      {
+        "title": "Task Management",
+        "description": "Create, organize and complete tasks easily with our intuitive management system.",
+        "delay": 0,
+        "icon": "CheckCircle"
+      },
+      {
+        "title": "File Upload",
+        "description": "Attach documents, images and files to your tasks to have all information in one place.",
+        "delay": 100,
+        "icon": "Upload"
+      },
+      {
+        "title": "Task Sharing",
+        "description": "Share tasks with friends and collaborators to work together on projects.",
+        "delay": 200,
+        "icon": "Share2"
+      },
+      {
+        "title": "Task Comments",
+        "description": "Add comments to tasks to keep discussions and clarifications in context.",
+        "delay": 300,
+        "icon": "MessageSquare"
+      },
+      {
+        "title": "Real-time Notifications",
+        "description": "Receive instant updates about changes in your tasks and messages from collaborators.",
+        "delay": 400,
+        "icon": "Clock"
+      },
+      {
+        "title": "Multiple Sign-in Options",
+        "description": "Sign in easily with Google, Facebook, email and more options.",
+        "delay": 500,
+        "icon": "Users"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Getting started with Piranha Planner is fast and easy",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Create an account",
+        "description": "Sign up for free using your email, Google, or Facebook in seconds.",
+        "delay": 0
+      },
+      {
+        "number": 2,
+        "title": "Create and organize your tasks",
+        "description": "Add tasks easily, assign due dates, priorities, and custom categories.",
+        "delay": 100
+      },
+      {
+        "number": 3,
+        "title": "Attach files and comments",
+        "description": "Upload documents or images to your tasks and add comments to keep everything clear.",
+        "delay": 200
+      },
+      {
+        "number": 4,
+        "title": "Share and collaborate",
+        "description": "Invite friends or teammates to collaborate on shared tasks or projects.",
+        "delay": 300
+      },
+      {
+        "number": 5,
+        "title": "Communicate easily",
+        "description": "Send direct messages to your collaborators and keep everything in one place.",
+        "delay": 400
+      },
+      {
+        "number": 6,
+        "title": "Track your progress",
+        "description": "View visual statistics to see how you're doing and stay motivated.",
+        "delay": 500
+      }
+    ],
+    "imageAlt": "Piranha Planner in action"
+  },
+  "cta": {
+    "title": "Be among the first to use Piranha Planner",
+    "subtitle": "We are about to launch our most efficient and collaborative task management platform. Completely free, no credit card required.",
+    "button": "Sign up"
+  },
+  "footer": {
+    "links": {
+      "terms": "Terms of service",
+      "privacy": "Privacy policy",
+      "contact": "Contact"
+    },
+    "copyright": "Piranha Planner. All rights reserved."
+  },
+  "common": {
+    "brandName": "Piranha Planner"
+  }
+}

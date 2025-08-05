@@ -1,0 +1,131 @@
+{
+  "header": {
+    "nav": {
+      "features": "Características",
+      "howItWorks": "Cómo funciona"
+    },
+    "auth": {
+      "signIn": {
+        "label": "Iniciar sesión",
+        "link": "https://piranhaplanner.netlify.app/login"
+      },
+      "signUp": {
+        "label": "Registrarse",
+        "link": "https://piranhaplanner.netlify.app/signup"
+      }
+    }
+  },
+  "hero": {
+    "title": "Gestiona tus tareas con",
+    "subtitle": "La forma más eficiente de organizar tus tareas, colaborar con amigos y mantener todo bajo control.",
+    "subtitle2": "100% gratuito, sin tarjetas ni pagos.",
+    "cta": {
+      "primary": "Comenzar ahora",
+      "secondary": "Ver demostración"
+    },
+    "image": "HeroImageEs",
+    "imageAlt": "Panel de Piranha Planner"
+  },
+  "features": {
+    "title": "Características principales",
+    "subtitle": "Piranha Planner ofrece todo lo que necesitas para gestionar tus tareas de manera eficiente",
+    "items": [
+      {
+        "title": "Gestión de tareas",
+        "description": "Crea, organiza y completa tareas fácilmente con nuestro intuitivo sistema de gestión.",
+        "delay": 0,
+        "icon": "CheckCircle"
+      },
+      {
+        "title": "Subida de archivos",
+        "description": "Adjunta documentos, imágenes y archivos a tus tareas para tener toda la información en un solo lugar.",
+        "delay": 100,
+        "icon": "Upload"
+      },
+      {
+        "title": "Compartir tareas",
+        "description": "Comparte tareas con amigos y colaboradores para trabajar juntos en proyectos.",
+        "delay": 200,
+        "icon": "Share2"
+      },
+      {
+        "title": "Comentarios en tareas",
+        "description": "Añade comentarios a las tareas para mantener discusiones y aclaraciones en contexto.",
+        "delay": 300,
+        "icon": "MessageSquare"
+      },
+      {
+        "title": "Notificaciones en tiempo real",
+        "description": "Recibe actualizaciones instantáneas sobre cambios en tus tareas y mensajes de colaboradores.",
+        "delay": 400,
+        "icon": "Clock"
+      },
+      {
+        "title": "Múltiples opciones de inicio de sesión",
+        "description": "Inicia sesión fácilmente con Google, Facebook, correo electrónico y más opciones.",
+        "delay": 500,
+        "icon": "Users"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "subtitle": "Comenzar a usar Piranha Planner es muy sencillo y rápido",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Crea una cuenta",
+        "description": "Regístrate gratis usando tu correo, Google o Facebook en segundos.",
+        "delay": 0
+      },
+      {
+        "number": 2,
+        "title": "Crea y organiza tus tareas",
+        "description": "Agrega tareas fácilmente, asígnales fechas límite, prioridades y categorías personalizadas.",
+        "delay": 100
+      },
+      {
+        "number": 3,
+        "title": "Agrega archivos y comentarios",
+        "description": "Adjunta documentos o imágenes a tus tareas y añade comentarios para no perder ningún detalle.",
+        "delay": 200
+      },
+      {
+        "number": 4,
+        "title": "Comparte y colabora",
+        "description": "Invita a amigos o compañeros a colaborar en tareas o proyectos compartidos.",
+        "delay": 300
+      },
+      {
+        "number": 5,
+        "title": "Comunícate fácilmente",
+        "description": "Envía mensajes directos a tus colaboradores para mantener todo en un solo lugar.",
+        "delay": 400
+      },
+      {
+        "number": 6,
+        "title": "Haz seguimiento a tu progreso",
+        "description": "Consulta estadísticas visuales para ver cómo avanzas y mantenerte motivado.",
+        "delay": 500
+      }
+    ],
+    "imageAlt": "Piranha Planner en acción"
+  },
+
+  "cta": {
+    "title": "Sé de los primeros en usar Piranha Planner",
+    "subtitle": "Estamos a punto de lanzar nuestra plataforma de gestión de tareas más eficiente y colaborativa. Totalmente gratis, sin necesidad de tarjeta de crédito.",
+    "button": "Registrarse"
+  },
+  "footer": {
+    "links": {
+      "terms": "Términos de servicio",
+      "privacy": "Política de privacidad",
+      "contact": "Contacto"
+    },
+    "copyright": "Piranha Planner. Todos los derechos reservados."
+  },
+  "common": {
+    "brandName": "Piranha Planner"
+  }
+}
