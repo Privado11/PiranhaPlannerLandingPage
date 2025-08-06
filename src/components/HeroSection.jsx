@@ -50,10 +50,10 @@ export default function HeroSection() {
             size="lg"
             className="bg-blue-600 hover:bg-blue-700 hover:scale-105 transition-transform cursor-pointer"
           >
-            {t("hero.cta.primary")}
+            <a href={t("header.auth.signUp.link")}>{t("hero.cta.primary")}</a>
+
             <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
-          
         </div>
         <div className="mt-16 w-full max-w-6xl">
           <div className="rounded-lg border bg-white/50 shadow-xl hover:shadow-2xl transition-shadow duration-500 overflow-hidden">
