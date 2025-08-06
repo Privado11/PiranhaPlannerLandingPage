@@ -42,7 +42,8 @@ export default function Header() {
       setTimeout(() => {
         const element = document.getElementById(targetId);
         if (element) {
-          const offset = 10;
+          const isMobile = window.innerWidth <= 768;
+          const offset = isMobile ? 80 : 10;
           const elementPosition =
             element.getBoundingClientRect().top + window.pageYOffset;
           const offsetPosition = elementPosition - offset;
